@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Diogo and I'm a Software Developer.</h1>
+<h1 align="left">Hi 👋! My name is Diogo and I'm a Software Developer. 👨‍💻🤖</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">Working/Focusing on:</h3>
+<h3 align="left">📚 Working/Focusing on:</h3>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">Worked with:</h3>
+<h3 align="left">🖥 Worked with:</h3>
 
 ###
 
@@ -86,7 +86,7 @@
 
 ###
 
-<h3 align="left">Software Development:</h3>
+<h3 align="left">🧑‍🍳 Software Development:</h3>
 
 ###
 
